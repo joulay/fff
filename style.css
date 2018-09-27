@@ -36,6 +36,10 @@ body {
     
 }
 
+.pane {
+    padding-bottom: 45rem;
+}
+
 .row {
     max-width: 114rem;
     margin: 0 auto;
@@ -58,4 +62,25 @@ body {
 
 .col-1-of-3 {
     width: calc((100% - 2 * 6rem) / 3);
+    height: 40rem;
+    background-color: white;
+    box-shadow: 0 1.5rem 4rem #E5E7E9;
 }
+
+.profile-image {
+    width: 15rem;
+    height: 15rem;
+    margin: 2rem 4rem;
+    border-radius: 50%;
+    opacity: .5;
+}
+
+.profile-image:hover {
+    opacity: 1;
+}
+
+.employee-container {
+    margin: 2rem 4rem;
+    text-align: center;
+}
+
