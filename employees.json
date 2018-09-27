@@ -1,0 +1,47 @@
+const employees = {
+    "emp1" : {
+        "name": "employee1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed metus neque."    
+    },
+    "emp2" : {
+        "name": "employee2",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed metus neque."    
+    },
+    "emp3" : {
+        "name": "employee3",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed metus neque."    
+    },
+    "emp4" : {
+        "name": "employee4",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed metus neque."    
+    },
+    "emp5" : {
+        "name": "employee5",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed metus neque."    
+    },
+    "emp6" : {
+        "name": "employee6",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed metus neque."    
+    },
+    "emp7" : {
+        "name": "employee7",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed metus neque."    
+    },
+    "emp8" : {
+        "name": "employee8",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed metus neque."    
+    },
+    "emp9" : {
+        "name": "employee9",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed metus neque."    
+    },
+    "emp10" : {
+        "name": "employee10",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed metus neque."    
+    },
+    "emp11" : {
+        "name": "employee11",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed metus neque."    
+    }
+
+}

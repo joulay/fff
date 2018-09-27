@@ -21,6 +21,9 @@ body {
     padding: 3rem;
     box-sizing: border-box;
 }
+.header {
+    height: 10vh;
+}
 
 .logo-box {
     position: absolute;
@@ -29,7 +32,6 @@ body {
 }
 
 .header-logo{
-    /* width: 150px; */
     height: 4rem;
     
 }
