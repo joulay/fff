@@ -37,14 +37,21 @@ body {
 }
 
 .pane {
-    padding-bottom: 45rem;
+    /* padding-bottom: 45rem; */
+}
+
+.pane--hide {
+    visibility: hidden;
+    height: 0;
 }
 
 .row {
     max-width: 114rem;
     margin: 0 auto;
-}
 
+} 
+
+/* 
 .row:not(:last-child) {
     margin-bottom: 8rem;
 }
@@ -58,14 +65,17 @@ body {
 [class^="col-"]:not(:last-child) {
     margin-right: 6rem;
 }
-
+ */
 
 .col-1-of-3 {
     width: calc((100% - 2 * 6rem) / 3);
     height: 40rem;
+    float: left; 
+    margin-right: 6rem;
     background-color: white;
     box-shadow: 0 1.5rem 4rem #E5E7E9;
 }
+
 
 .profile-image {
     width: 15rem;

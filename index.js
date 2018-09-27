@@ -15,9 +15,11 @@ $(document).ready(function() {
 
  
 
-    $(".profile-image").click(function() {
-        $("#pane1").attr();
-        console.log()
+    $(".profile-image").click(function(i) {
+        $("#pane1 .pane-heading").attr(i);
+        console.log(i)
+        $("#pane2 .pane-heading").attr("pane1")
+        
     }) 
 });
 
